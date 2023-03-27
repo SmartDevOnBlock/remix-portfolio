@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "My first dApp",
+    "image": "https://imgur.com/ji0Gckq.png",
+    "description": "Simple NFT minting page operating on ETH Goerli network",
+    "tags": ["next", "node", "solidity", "styled-components", "react", "ethers"],
+    "source_code": "https://github.com/SmartDevOnBlock/MyFinalBoss",
+    "demo": "https://my-final-boss-2.vercel.app/myNFTs"
+  },
+
+  {
+    "id": 2,
+    "name": "Remix Portfolio",
+    "image": "https://imgur.com/at9FSKK.png",
+    "description": "A themeable portfolio based on the Remix Ethereum IDE design",
+    "tags": ["next", "css-modules", "react"],
+    "source_code": "https://github.com/SmartDevOnBlock/remix-portfolio",
+    "demo": "http://remix-portfolio.vercel.app/"
+  }
+]
