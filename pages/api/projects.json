@@ -16,6 +16,6 @@
     "description": "A themeable portfolio based on the Remix Ethereum IDE design",
     "tags": ["next", "css-modules", "react"],
     "source_code": "https://github.com/SmartDevOnBlock/remix-portfolio",
-    "demo": "http://remix-portfolio.vercel.app/"
+    "demo": "http://remix-portfolio-nine.vercel.app/"
   }
 ]
