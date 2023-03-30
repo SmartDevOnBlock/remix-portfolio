@@ -17,5 +17,15 @@
     "tags": ["next", "css-modules", "react"],
     "source_code": "https://github.com/SmartDevOnBlock/remix-portfolio",
     "demo": "http://remix-portfolio-nine.vercel.app/"
+  },
+
+  {
+    "id": 3,
+    "name": "OnlyCam Components",
+    "image": "https://imgur.com/VOgTdJS.jpg",
+    "description": "Modern designed components for NFT marketplace",
+    "tags": ["material-ui", "react"],
+    "source_code": "https://github.com/SmartDevOnBlock/nft-marketplace-onlycam-master-react",
+    "demo": "http://onlycam.art"
   }
 ]
