@@ -27,5 +27,16 @@
     "tags": ["material-ui", "react"],
     "source_code": "https://github.com/SmartDevOnBlock/nft-marketplace-onlycam-master-react",
     "demo": "http://onlycam.art"
-  }
+  },
+  
+  {
+    "id": 4,
+    "name": "SCSS for 20+ components",
+    "image": "https://imgur.com/4y1wNeU.png",
+    "description": "Bright futuristic SCSS design for typescript components",
+    "tags": ["scss"],
+    "source_code": "https://github.com/SmartDevOnBlock/SCSS_components",
+    "demo": "https://hotcams.app/"
+  }, 
+  
 ]
