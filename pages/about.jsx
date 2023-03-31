@@ -2,7 +2,7 @@ const AboutPage = () => {
   return (
     <>
       <h2>A Little Bit About Me</h2>
-      <h3><br/>I am a <b>junior web3 developer</b> with an active mind, high ambitions and determination. <br/> I am passionate about blockchain and decentralized applications.
+      <h3><br/>I am a <sup>junior web3 developer</sup> with an active mind, high ambitions and determination. <br/> I am passionate about blockchain and decentralized applications.
     <br/><br/> I can create smart contracts using <mark>"Solidity"</mark> language, Back-end with <mark>"Node.js"</mark> and connect them to the Front-end, which I develop with <mark>"React"</mark> library and <mark>"Next.js"</mark>. I can use both standard <strong>CSS modules</strong>, <strong>SCSS</strong> or <strong>Tailwind</strong> and <strong>Styled-Components</strong> frameworks to work with design.
 
 
