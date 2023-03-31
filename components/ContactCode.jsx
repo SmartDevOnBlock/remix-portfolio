@@ -4,48 +4,48 @@ const contactItems = [
   {
     social: 'website',
     link: 'smartdevonblock.me',
-    href: 'https://smartdevonblock.me',
+    href: 'https://remix-portfolio-nine.vercel.app/',
   },
   {
     social: 'email',
-    link: 'smartdevonblock@gmail.com',
-    href: 'mailto:smartdevonblock@gmail.com',
+    link: 'ds.smartdevonblock@gmail.com',
+    href: 'mailto:ds.smartdevonblock@gmail.com',
   },
   {
     social: 'github',
     link: 'smartdevonblock',
     href: 'https://github.com/SmartDevOnBlock',
   },
-  {
-    social: 'linkedin',
-    link: 'smartdevonblock',
-    href: 'https://www.linkedin.com/in/smartdevonblock/',
-  },
-  {
-    social: 'twitter',
-    link: 'smartdevonblock',
-    href: 'https://www.twitter.com/smartdevonblock',
-  },
-  {
-    social: 'instagram',
-    link: 'smartdevonblock',
-    href: 'https://www.instagram.com/smartdevonblock',
-  },
-  {
-    social: 'polywork',
-    link: 'smartdevonblock',
-    href: 'https://www.polywork.com/smartdevonblock',
-  },
+//   {
+//     social: 'linkedin',
+//     link: 'smartdevonblock',
+//     href: 'https://www.linkedin.com/in/smartdevonblock/',
+//   },
+//   {
+//     social: 'twitter',
+//     link: 'smartdevonblock',
+//     href: 'https://www.twitter.com/smartdevonblock',
+//   },
+//   {
+//     social: 'instagram',
+//     link: 'smartdevonblock',
+//     href: 'https://www.instagram.com/smartdevonblock',
+//   },
+//   {
+//     social: 'polywork',
+//     link: 'smartdevonblock',
+//     href: 'https://www.polywork.com/smartdevonblock',
+//   },
   {
     social: 'telegram',
     link: 'smartdevonblock',
-    href: 'https://t.me/smartdevonblock',
+    href: 'https://t.me/nft_gems',
   },
-  {
-    social: 'codepen',
-    link: 'smartdevonblock',
-    href: 'https://codepen.io/smartdevonblock',
-  },
+//   {
+//     social: 'codepen',
+//     link: 'smartdevonblock',
+//     href: 'https://codepen.io/smartdevonblock',
+//   },
   {
     social: 'codesandbox',
     link: 'smartdevonblock',
